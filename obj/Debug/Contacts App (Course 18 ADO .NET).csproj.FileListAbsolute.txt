@@ -1,0 +1,16 @@
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\Contacts_App__Course_18_ADO.NET_.exe.config
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\Contacts_App__Course_18_ADO.NET_.exe
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\Contacts_App__Course_18_ADO.NET_.pdb
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts App (Course 18 ADO .NET).csproj.AssemblyReference.cache
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts_App__Course_18_ADO.NET_.frmMain.resources
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts_App__Course_18_ADO.NET_.Properties.Resources.resources
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts App (Course 18 ADO .NET).csproj.GenerateResource.cache
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts App (Course 18 ADO .NET).csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts.DE78A1DB.Up2Date
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts_App__Course_18_ADO.NET_.exe
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts_App__Course_18_ADO.NET_.pdb
+C:\Users\Ahmed Hossny\source\repos\Contacts App (Course 18 ADO .NET)\obj\Debug\Contacts_App__Course_18_ADO.NET_.frmAddEdit.resources
